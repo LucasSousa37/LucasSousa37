@@ -1,6 +1,6 @@
 ### Olá 👋🏻, eu sou o Lucas Sousa 🙋🏻‍♂️! 
 
-😍 Apaixonado por tecnologia e devido a este motivo, atualmente estou em fase de transição de carreira para a programação com ênfase em Desenvolvimento Web.
+😍 Apaixonado por tecnologia e devido a este motivo, atualmente estou em fase de transição de carreira da Educação Física para a programação com ênfase em Desenvolvimento Web.
 
 💻 Estou em busca da minha primeira oportunidade de emprego. Meu desejo é um dia trabalhar com programação desenvolvendo sites e com isso poder aprender e adquirir conhecimentos cada vez mais.
 
