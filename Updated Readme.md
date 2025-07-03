@@ -1,8 +1,9 @@
 ### Olá 👋🏻, eu sou o Lucas Sousa 🙋🏻‍♂️! 
 
-😍 Apaixonado por tecnologia e devido a este motivo, atualmente estou em fase de transição de carreira da Educação Física para a programação com ênfase em Desenvolvimento Web.
+😍🚀 Olá sou Lucas Sousa. Sou um profissional em transição de carreira, atualmente cursando Ciência da Computação e apaixonado por criar experiências digitais impactantes, com foco em desenvolvimento Web Front-end. Tenho me dedicado ao estudo de tecnologias como HTML, CSS, JavaScript e frameworks como React, Node.js, Angular, C#, sempre buscando criar interfaces intuitivas, acessíveis e responsivas.
+Além do desenvolvimento Front-End, integro ferramentas de IA em meu processo de desenvolvimento, utilizando-as para otimizar fluxos de trabalho, gerar soluções criativas de projetos. Essa abordagem me permite explorar possibilidades inovadoras e entregar resultados mais eficientes, sempre mantendo o foco na qualidade e na experiência do usuário.
 
-💻 Estou em busca da minha primeira oportunidade de emprego. Meu desejo é um dia trabalhar com programação desenvolvendo sites e com isso poder aprender e adquirir conhecimentos cada vez mais.
+Estou em busca de uma oportunidade de estágio que me permita aplicar meus conhecimentos em um ambiente profissional, contribuir com equipes de desenvolvimento e acelerar meu crescimento na área. Trago energia, dedicação e uma perspectiva única oriunda de minha experiência de transição de carreira. 💻🚀
 
 ### 🧑🏻 Mais sobre mim.
 
