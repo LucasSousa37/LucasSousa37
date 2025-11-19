@@ -1,30 +1,32 @@
 ### Olá 👋🏻, eu sou o Lucas Sousa 🙋🏻‍♂️! 
+<div>
+😍🚀 Profissional em transição de carreira para a área de programação, atualmente cursando Ciência da Computação. Experiência prévia em alguns projetos pessoais utilizando as tecnologias HTML, CSS e Javascript e também integro ferramentas de IA, ex: ChatGpt, Claude e Gemini, para desenvolvimento dos projetos, agregando uma visão estratégica ao desenvolvimento de software;
+    Habilidade em desenvolvimento de sistemas utilizando as tecnologias principais, ex.: HTML, CSS e JavaScript, com foco na criação de soluções escaláveis e eficientes. Experiência prática adquirida por meio de projetos próprios, cursos e bootcamps intensivos em programação. Capacidade de aprendizado rápido e adaptação a novos desafios, com conhecimento em metodologias, controle de versão de código (Github). Buscando ampliar os conhecimentos e aprendizado com outras tecnologias como: [React, Node.js, Phyton, Angular, entre outras]. Contribuindo com soluções criativas e funcionais para garantir a escalabilidade das soluções.
+    Motivado a ingressar no mercado de tecnologia, trazendo habilidades analíticas, pensamento crítico e experiência multidisciplinar para agregar valor ao desenvolvimento de produtos digitais. Busco oportunidades para colaborar com equipes inovadoras e continuar minha evolução profissional na área de tecnologia.💻🚀
+</div>
+<br></br>
 
-😍🚀 Olá sou Lucas Sousa. Sou um profissional em transição de carreira, atualmente cursando Ciência da Computação e apaixonado por criar experiências digitais impactantes, com foco em desenvolvimento Web Front-end. Tenho me dedicado ao estudo de tecnologias como HTML, CSS, JavaScript e frameworks como React, Node.js, Angular, C#, sempre buscando criar interfaces intuitivas, acessíveis e responsivas.
-Além do desenvolvimento Front-End, integro ferramentas de IA em meu processo de desenvolvimento, utilizando-as para otimizar fluxos de trabalho, gerar soluções criativas de projetos. Essa abordagem me permite explorar possibilidades inovadoras e entregar resultados mais eficientes, sempre mantendo o foco na qualidade e na experiência do usuário.
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas&theme=cobalt2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas&theme=cobalt2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas&theme=cobalt2) |
+| :-: | :-: | :-: | 
 
-Estou em busca de uma oportunidade de estágio que me permita aplicar meus conhecimentos em um ambiente profissional, contribuir com equipes de desenvolvimento e acelerar meu crescimento na área. Trago energia, dedicação e uma perspectiva única oriunda de minha experiência de transição de carreira. 💻🚀
-
-### 🧑🏻 Mais sobre mim.
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CasalLunique)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/lucasdonizetidsoficial)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sousals/)
-
-![LucasSousa37 GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassousa37&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassousa37)](https://github.com/anuraghazra/github-readme-stats)
+### 🧑🏻 Mais sobre mim. <br>
+[![Instagram](https://img.shields.io/badge/instagram-%23833ab4?style=for-the-badge&logo=instagram&logoColor=%23833ab4&labelColor=%23fcb045&color=%23fd1d1d)](https://www.instagram.com/lucasdonizetidsoficial/) 
+[![Linkedin](https://img.shields.io/badge/linkedin-%230e76a8?style=for-the-badge&logo=linkedin&logoColor=%230e76a8)](https://www.linkedin.com/in/lucas-sousals/)
+[![Youtube](https://img.shields.io/badge/youtube-c4302b?style=for-the-badge&logo=youtube&logoColor=ff0000&labelColor=%23ffffff&color=%23ff0000)](https://www.youtube.com/@CasalLunique)
+[![WhatsApp](https://img.shields.io/badge/whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=%2325D366&labelColor=ffffff)](https://wa.me/35998295580) 
+[![Gmail](https://img.shields.io/badge/gmail-%234285F4?style=for-the-badge&logo=gmail&logoColor=%234285F4&labelColor=ffffff)](mailto:lucassousadevjr@gmail.com)
+<br>
 
 ## 🚀 Tecnologias que eu utilizo.
 <div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div><br/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
 ## 🚀 Ferramenta de Desenvolvimento Utilizada.
 <div style="display: inline_block">
     <img align="center" alt="visualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div><br/>
-
+</div>
+<br>
 Sou um eterno apaixonado e aprendiz por tecnologia e buscarei sempre ampliar meus conhecimentos.-->
